@@ -5,8 +5,7 @@
 This project analyzes sales data using Microsoft Excel to understand overall sales performance and identify important sales trends.
 
 The project uses Pivot Table-style analysis and a dashboard to summarize the data in a clear and interactive way.
-## link
-<a href="https://github.com/NirjalaKushwaha2005/excel/blob/main/Sales_Performance_Pivot_Dashboard.xlsx">
+
 ## Objectives
 
 The main objectives of this project are:
